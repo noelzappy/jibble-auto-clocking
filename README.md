@@ -57,6 +57,12 @@ Or you can do a quick google search on how to use `vi`.
 
 This will clock you in at 8:56am every weekday and clock you out at 5:01pm every weekday.
 
+### ensure the python3 path is correct for your machine. You can get the path by running the following command:
+
+```bash
+which python3
+```
+
 ### Save and exit the file
 
 ```bash
