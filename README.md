@@ -12,7 +12,7 @@ git clone https://github.com/noelzappy/jibble-auto-clocking && cd jibble-auto-cl
 
 NB: You can also download the zip file and extract it.
 
-### ENSURE YOU UPDATE THE LOGIN CREDENTIALS LABELED AS `EMAIL` AND `PASSWORD` IN BOTH THE `clock_in.py` AND `clock_out.py` FILES. THIS STEP IS IMPORTANT.
+### ENSURE YOU UPDATE THE LOGIN CREDENTIALS LABELED AS `user_email` AND `password` IN BOTH THE `clock_in.py` AND `clock_out.py` FILES. THIS STEP IS IMPORTANT.
 
 ## 2. Create a directory to store the script logs
 
