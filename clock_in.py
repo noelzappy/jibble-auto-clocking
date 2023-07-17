@@ -19,7 +19,7 @@ global driver
 
 driver = webdriver.Chrome(options=chrome_options)
 
-driver.get("https://www.jibble.io/app/login")
+driver.get("https://web.jibble.io/login")
 
 driver.maximize_window()
 
